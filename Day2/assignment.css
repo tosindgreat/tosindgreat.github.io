@@ -1,0 +1,30 @@
+
+     
+     .mediabox {height: 400px; background-color: aqua;}
+      @media screen and (min-width: 800px){
+        .mediabox{background-color: purple;}
+        .mediabox>div{margin-left: 2%;width: 30%;float: left;border: 2px solid black;}
+        
+      }
+     .heroimagebox {
+       /* background-color: orange; */
+       border: 2px solid black;
+       height: 400px;
+       position: relative;
+    
+     }
+      .heroimagebox>img{
+        /* width: 400px; */
+        height: 400px;
+        float: right;
+      }
+    
+      .heroimagebox>h1{
+        position: absolute;
+        top: 10px;
+      }
+      .heroimagebox>button{
+        position: absolute;
+        top: 10px;
+        right: 4px;
+      }
