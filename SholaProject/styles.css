@@ -1,0 +1,97 @@
+/* styles.css */
+body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/310974821_10221844562811634_7103291686148893951_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=fnVJwiDVo7kQ7kNvgGwmT9t&_nc_ht=scontent-iad3-1.xx&cb_e2o_trans=t&oh=00_AYBc-PgeF5NVWKWZVZDK45dE2pTaAz6fRPPZGNXqmrSh8w&oe=66CAE49F');
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-position: center; /* Centers the background image */
+    background-repeat: repeat; /* Prevents the image from repeating */
+    background-attachment: relative; /* Keeps the image fixed in place when scrolling */
+    display: grid;
+    grid-template-rows: 1fr auto;
+}
+
+img{   
+    /* animation-name: changeimg;
+    animation-duration: 10s;
+    animation-iteration-count: infinite; */
+    animation: cha--ngeimg 10s 2s infinite;
+    /* filter:grayscale(0.5);
+    filter: blur(3px); */
+  }
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.modal-footer p {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+
+.navbar {
+    background-image: url('images/navbar-background.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+.modal-content {
+    background-image: url('images/modal-background.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Footer Styles */
+.footer {
+    grid-row: 2; /* Ensures the footer is always placed at the bottom */
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+}
+
+/* .footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.footer i {
+    font-size: 10px;
+}
+
+.footer p {
+    margin: 0;
+} */
+
+
+.btn {
+    padding: 15px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.btn:hover {
+    background-color: #218838;
+}
