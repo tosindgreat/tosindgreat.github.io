@@ -1,0 +1,83 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+/* Header and Footer */
+header, footer {
+    background-color: #00457c;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1, footer p {
+    margin: 0;
+}
+
+/* Container */
+.container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+/* Section Titles */
+.section-title {
+    color: #00457c;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Service Items */
+.service-item {
+    margin-bottom: 20px;
+}
+
+.service-item h3 {
+    margin-top: 0;
+}
+
+.service-item a {
+    color: #00457c;
+    text-decoration: none;
+}
+
+.service-item a:hover {
+    text-decoration: underline;
+}
+
+/* Contact Info and Quick Links */
+.contact-info, .quick-links {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.contact-info div, .quick-links div {
+    width: 45%;
+}
+
+.quick-links a {
+    color: #00457c;
+    text-decoration: none;
+}
+
+.quick-links a:hover {
+    text-decoration: underline;
+}
+
+/* Footer Links */
+footer a {
+    color: white;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    color: #d3d3d3;
+}
