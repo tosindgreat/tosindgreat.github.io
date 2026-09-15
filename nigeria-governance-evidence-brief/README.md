@@ -4,7 +4,7 @@
 
 **Prepared for a public-affairs discussion with Funmi**  
 **Evidence cut-off:** 14 September 2026  
-**Evidence rule:** This edition uses the connected records actually retrieved from Gmail, Google Drive, GitHub, and the existing Figma evidence brief. It does not import remembered or outside macroeconomic statistics to fill gaps.
+**Evidence rule:** This edition uses the connected records actually retrieved from Gmail, Google Drive, GitHub, and the existing presentation evidence brief. It does not import remembered or outside macroeconomic statistics to fill gaps.
 
 ---
 
@@ -35,9 +35,13 @@ The saved papers do support one important premise: Nigeria remains structurally 
 | *The Evolution of Nigeria’s Economy: From Pre-Oil Era to the Challenges of a Monotonous Oil Economy* | Gmail attachment, 16 Jun 2024 | Historical oil/FX dependence, import pressure, inflation/FX vulnerability, weak linkages, diversification need, U.S. comparison | Analytical background; not an administration audit |
 | *Repositioning the Oil-Dependent Nigerian Economy* | Gmail attachment, 13 May 2024 | Diversification, infrastructure, agriculture, manufacturing, ICT, SMEs, innovation; fiscal-indiscipline/corruption risk; U.S. shale illustration | Policy analysis; not proof of Tinubu delivery |
 | “Another ₦1.6 Trillion Loan? …” | Gmail, 12 May 2026 | Confirms the specific loan controversy was saved | Commentary only; not authoritative loan documentation |
-| Google Drive targeted searches | 14 Sep 2026 | Searches for Tinubu, subsidy, budget/loan, oil dependence, Malaysia, and macro indicators did not surface a relevant authenticated fiscal record | Evidence gap |
-| Existing Figma evidence brief | Reviewed 14 Sep 2026 | Preserved prior reconciliation logic, evidence method, structural-risk analysis, and source limitations | Derivative synthesis; checked against current retrieval |
+| Google Drive targeted searches | 14 Sep 2026 | Searches for Tinubu, Buhari, subsidy, 2026 budget, loan, ₦1.6tn, oil dependence, Malaysia, and macro indicators did not surface a relevant authenticated fiscal record | Evidence gap |
+| Existing presentation evidence brief | Reviewed 14 Sep 2026 | Preserved prior reconciliation logic, evidence method, structural-risk analysis, and source limitations | Derivative synthesis; checked against current retrieval |
 | Existing GitHub evidence brief | Reviewed and updated 14 Sep 2026 | Canonical public synthesis and reconciliation note | Derivative synthesis; not an independent source |
+
+### Retrieval verification note
+
+Exact Google Drive searches for **Tinubu**, **Buhari**, **1.6 trillion**, **2026 budget**, **loan**, **subsidy**, and **Malaysia** did not surface an authenticated National Assembly borrowing instrument, final operative 2026 budget, subsidy-savings allocation ledger, or substantive saved Malaysia resource-growth study. Exact Gmail searches for **National Assembly Nigeria loan**, **50 trillion Nigeria budget**, and **60 trillion Nigeria budget** likewise did not surface an official record; the **1.6 Trillion** search returned the 12 May 2026 commentary link above. This is an evidence-gap finding, not evidence that the underlying public documents do not exist elsewhere.
 
 ---
 
