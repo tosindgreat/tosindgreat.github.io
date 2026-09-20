@@ -1,7 +1,7 @@
 # Fortune 500 Job Search Evidence Review
 
 **Prepared for:** Oluwatosin Amodu  
-**Evidence period:** August 25, 2022 through September 18, 2026  
+**Evidence period:** August 25, 2022 through September 19, 2026  
 **Primary question:** Do the saved application and interview records show that continued PhD work, continued cloud/AWS development, or both are improving Fortune 500 interview conversion?
 
 ## Focused audit — November 1, 2025 through September 19, 2026
