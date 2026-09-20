@@ -4,6 +4,59 @@
 **Evidence period:** August 25, 2022 through September 18, 2026  
 **Primary question:** Do the saved application and interview records show that continued PhD work, continued cloud/AWS development, or both are improving Fortune 500 interview conversion?
 
+## Focused audit — November 1, 2025 through September 19, 2026
+
+**Verdict:** Based on 23 Fortune 500 application confirmations since November 1, 2025 and zero interviews traceable to those applications, the evidence does not show that either the PhD or cloud-capstone strategy has independently improved conversion yet, so both should continue together as one integrated, measurable recruiting story.
+
+### Exact focused reconstruction
+
+| Measure | Count |
+|---|---:|
+| Fortune 500 application confirmations received on or after November 1, 2025 | **23** |
+| Those applications that led to an interview under the strict date/time rule | **0** |
+| Historical Fortune 500 application records in the broader saved archive | 79 |
+| Historical interview-stage applications in the broader saved archive | 9 |
+| Historical interviews with post-event proof | 3 |
+
+For this focused audit, an application counts as having led to an interview only when a follow-up email or Google Calendar event proposes or confirms a specific date or time to talk. Generic acknowledgements, automated rejections, job alerts, application-status updates, and unscheduled recruiter messages do not count.
+
+The November 6, 2025 Citi first-round interview meets the interview definition, but it is not attributed to the 23-application focused set because the underlying application was already in flight before the post-November application confirmations being evaluated here. This prevents a calendar event from being incorrectly counted as conversion from a later application.
+
+### What the interview evidence actually supports
+
+Across the broader historical interview-stage set, the strongest common pattern is role alignment: technology risk, audit, controls, security, cloud, and transformation. The saved recruiter threads and calendar entries do **not** explicitly credit the PhD research topic, the QCC GridVision capstone, or an LHH-facilitated introduction. The QCC capstone was completed after the last historical Fortune 500 interview in the saved record, so its effect on Fortune 500 conversion has not yet been tested.
+
+### LHH reconciliation
+
+The most recent saved LHH evidence is the **August 24, 2026** email, which offers LinkedIn Learning, live webinars, and discounted General Assembly courses including Web Development, UX Design, Product Management, and other technical skills. The **June 2026** orientation handout similarly describes General Assembly as a way to advance tech skills for people in the tech-oriented space. Neither record establishes a formal, named emerging-technology or technical track. The older **May 2, 2023** “Digital Talent Exchange” email is a recruiter-facing talent database, not a training track. Therefore the current evidence supports **technical upskilling resources**, not a confirmed formal emerging-tech track.
+
+### Current public project status
+
+GitHub was checked directly on September 19, 2026. The following repositories are currently **public** and not archived:
+
+- [Summer2023AWS-am](https://github.com/tosindgreat/Summer2023AWS-am)
+- [PATIENT_SERVICE_API](https://github.com/tosindgreat/PATIENT_SERVICE_API)
+- [PATIENT_SERVICE_UI-](https://github.com/tosindgreat/PATIENT_SERVICE_UI-)
+- [Project2](https://github.com/tosindgreat/Project2)
+
+The QCC GridVision capstone is represented in the saved record through AWS S3 links rather than a dedicated GitHub repository in the inspected account:
+
+- [GridVision presentation](https://gridvision-group2-presentation-slide.s3.us-east-1.amazonaws.com/presentation/Index_V2.html)
+- [Smart Energy Operations Dashboard](https://gridvision-group2-presentation-slide.s3.us-east-1.amazonaws.com/presentation/GridVision+AI_+Smart+Energy+Operations+Dashboard+V1.html)
+- [Technical design document](https://gridvision-group2-presentation-slide.s3.us-east-1.amazonaws.com/presentation/GridVision+AI+Dashboard_Technical_Design_Document.html)
+
+The S3 links were preserved from Gmail records; their live availability could not be independently verified in this tool environment.
+
+### Recruiting interpretation
+
+**Strategy 1 — PhD / emerging technologies:** The broader interview history is compatible with the financial-institution and technology-risk domain of the research, but no saved recruiter evidence shows that the PhD itself caused interview conversion.
+
+**Strategy 2 — cloud skills / capstones:** The project portfolio creates concrete, inspectable evidence and is especially relevant to cloud/security roles, but the QCC capstone postdates the historical Fortune 500 interviews, so there is not yet a conversion signal attributable to it.
+
+The next useful test is prospective: place both the PhD relevance statement and one clearly scoped project link into a defined batch of closely matched Fortune 500 applications, then track which element recruiters mention and whether conversion changes.
+
+---
+
 ## Executive verdict
 
 The saved record does **not** show that either self-development strategy has independently improved Fortune 500 interview conversion.
