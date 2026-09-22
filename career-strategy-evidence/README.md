@@ -6,7 +6,7 @@
 
 ## Verdict
 
-Both strategies remain necessary: no post-November 1, 2025 Fortune 500 application in the verified record reached a qualifying interview stage attributable to either the PhD research or an AWS capstone/GitHub reference.
+Both strategies remain necessary: the verified post-November 1, 2025 Fortune 500/controlled-subsidiary record contains 38 application acknowledgments, zero qualifying interview-stage applications credited to either strategy, and the QCC AWS capstone is not currently public in the verified GitHub repository.
 
 ## Corrected scorecard
 
@@ -18,7 +18,7 @@ Both strategies remain necessary: no post-November 1, 2025 Fortune 500 applicati
 | Strategy 2 qualifying interview-stage credit | **0** |
 | Tie-break result | **Both remain necessary** |
 
-The earlier version of this file understated the acknowledgment count and incorrectly described the public GitHub status of the capstone. This version replaces those findings with the directly re-verified record.
+The earlier version of this file understated the acknowledgment count and later overstated the public GitHub status of the QCC capstone. This verified rerun replaces those findings with direct Gmail, Calendar, Drive/LHH, and current GitHub-tree evidence.
 
 ## Audit rules
 
@@ -102,7 +102,7 @@ No qualifying post-boundary interview-stage thread explicitly referenced the PhD
 
 **Qualifying interview-stage count: 0.**
 
-Direct GitHub verification on September 22, 2026 confirms that **tosindgreat/tosindgreat.github.io is public** and that the public repository contains the **GridVision-AI** capstone, including AWS-oriented CDK, Lambda, and supporting server code. Strategy 2 is therefore **actively demonstrable today**.
+Direct GitHub verification on September 22, 2026 confirms that **tosindgreat/tosindgreat.github.io is public**. A complete recursive inspection of the current `main` branch tree found **no GridVision, QCC, or AWS capstone folder**. Strategy 2 is therefore **not currently treated as actively demonstrable through GitHub**.
 
 No qualifying post-boundary interview-stage thread explicitly referenced the AWS capstone or a GitHub link, so Strategy 2 receives no interview-stage credit in this audit.
 
@@ -116,9 +116,9 @@ The **November 7, 2025** registration acknowledgment was directly retrieved. Its
 >
 > “We have received your information and are checking a few things in the background including your eligibility for LHH services.”
 
-The separate **June 2026 LHH document** described in the review request could not be independently retrieved from the connected Google Drive, Gmail, Outlook, or Notion sources during this audit. Because the requested June source itself is unavailable, its exact date and requested technical-track line cannot be truthfully quoted.
+The separate **June 2026 LHH document** described in the review request could not be independently retrieved from connected Google Drive, Gmail, Outlook Email, or Notion sources during this verified rerun. A June-only Google Drive metadata sweep also did not surface an LHH document. Because that June source itself is unavailable, its exact date and requested technical-track line cannot be truthfully quoted.
 
-The latest directly verified LHH learning record is dated **August 24, 2026** and states:
+The most recent directly verified LHH record is instead dated **August 24, 2026** and states:
 
 > “LinkedIn Learning: Explore over 16,000+ courses covering everything from project management and leadership to creativity and technical skills.”
 
@@ -134,7 +134,7 @@ Strategy 1 and Strategy 2 are tied at **0 qualifying interview-stage application
 2. Keep each recruiting stage separate: acknowledgment, referral/introduction, recruiter reply, interview invitation, interview completed.
 3. Continue the PhD and make the research relevance explicit in targeted applications.
 4. Continue AWS upskilling regardless of the verdict.
-5. Keep GridVision-AI public and current, and put its live link in relevant applications.
+5. Publish the QCC/GridVision capstone into the public GitHub repository with a clear README, architecture, personal contribution, security controls, deployment evidence, and demo link; then use that live link in relevant applications.
 6. Recalculate the two strategy scores whenever a new qualifying time-confirmed interview appears.
 
 ## Live artifacts
